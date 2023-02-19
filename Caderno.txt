@@ -1,0 +1,12 @@
+existem multiplos tipos de for, o for pardão, o For in, o for of 
+sintaxe 
+
+o for in é pra fazer um loop entre as propriedades de um objeto
+for(i in vet) {
+
+}
+
+ja o for of é pra fazer um loop entre estruturas iteráveis no geral (arrays e strings)
+for(i of vet) {
+
+}
