@@ -10,3 +10,23 @@ ja o for of é pra fazer um loop entre estruturas iteráveis no geral (arrays e 
 for(i of vet) {
 
 }
+
+o var não entende escopo de bloco, ele só vai aceita escopo global ou escopo de função
+
+o let e consto por outro lado aceitam todos os tipos de escopo. Sendo eles escopo global, escopo de função e escopo de bloco
+
+não é uma boa prática criar variáveis em escopo global
+
+o método assign junta um ou mais objetos em um outro objeto
+
+o método freeze faz com que um objeto não possa ser alterado de manera nenhuma. 
+
+o método seal permite a realização de alterações nas propriedades de um objeto, mais não permite a criação nem operações de deltear os atributos do objeto
+
+função retorna algo
+
+método não retorna nada
+
+
+design patterns tem em geral 3 tipos:
+criação, estrutural e comportamental.
