@@ -5,20 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/styles/card.css">
+    <script src="src/Components/CardNews.js" defer></script>
+    <script src="src/Components/TituloDinamico.js" defer></script>
     <title>Portal de noticías Gálatica</title>
 </head>
 <body>
     <div class="container">
-        <div class="card">
-            <div class="card--left">
-                <span class="card--author">By Victor Luiz</span>
-                <a href="#" class="card--title">Darth Vader Contrata Devs</a>
-                <p class="card--description">Darth Vader procura desenvolvedores que sabem trabalhar com componentes</p>
-            </div>
-            <div class="card--right">
-                <img src="assets/img/profile.jpg" alt="Darth Vader segurando um sabre de luz" width="500">
-            </div>
-        </div>
+        <card--news 
+            author="Victor"
+            title="Darth Vader Contrata"
+            link-url="https:\\dio.me"
+            photo="assets\img\profile.jpg"
+            content="Darth Vader procura desenvolvedores que sabem trabalhar com componentes"
+        >
+        </card--news>
+        <card--news
+            title="Yoda convence a republia a usar componentes"
+            link-url="https:\\udemy.com.br"
+            content="yoda se pronuncia e choca a republica"
+        >
+        </card--news>
+        <card--news
+            author="Victor"
+            title="este componente foi feito com uma tag solteira"
+            link-url="https:\\dio.me"
+            content="este componente foi feito com uma tag solteira, a quesito de teste mesmo"
+        >
     </div>
 </body>
 </html>
