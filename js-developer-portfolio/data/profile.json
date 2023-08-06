@@ -1,0 +1,144 @@
+{
+  "name": "Victor Luiz lopes da Silva",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Desenvolvedor Front End",
+  "location": "São Paulo - SP",
+  "phone": "(11) 98323-8181",
+  "email": "victor.silva208@fatec.sp.gov.br",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "Visual Studio Code",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "Figma",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/figma.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "Bootstrap",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/bootstrap.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/typescript.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Concentração",
+      "Liderança",
+      "Trabalho em equipe",
+      "Perfeccionismo",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "ToDo List para gerenciar tarefas",
+      "url": "https://victorsr117.github.io/ToDo-React/",
+      "github": true
+    },
+    {
+      "name": "Site básico para um centro médico",
+      "url": "https://medicenter-projectt.netlify.app",
+      "github": false
+    },
+    {
+      "name": "One Page criada com bootstrap",
+      "url": "https://one-page-layoutt.netlify.app",
+      "github": false
+    },
+    {
+      "name": "site clone do StarBucks",
+      "url": "https://starbucks-projectt.netlify.app",
+      "github": false
+    },
+    {
+      "name": "site para vendas de livro",
+      "url": "https://awax-projectt.netlify.app",
+      "github": false
+    },
+    {
+      "name": "Currículo feito com html e css",
+      "url": "https://victorsr117.github.io/CurriculumVitae/",
+      "github": true
+    },
+    {
+      "name": "Quizz em formato de Buz feed",
+      "url": "https://github.com/VictorSR117/BuzzFeed/tree/main/projeto-buzzfeed",
+      "github": true
+    },
+    {
+      "name": "Simulação de um blog básico",
+      "url": "https://github.com/VictorSR117/blog",
+      "github": true
+    },
+    {
+      "name": "Site de Artesanato feito como projeto de faculdade",
+      "url": "https://victorsr117.github.io/ArtTech/",
+      "github": true
+    },
+    {
+      "name": "Conteúdos de JavaScript estudados na DIO",
+      "url": "https://github.com/VictorSR117/JSDigialInovationOne",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor Front End (estágio)",
+      "period": "2022 - 2023",
+      "description": "realizar o desenvolvimento de sites, blogs e Landing Pages, bem como a manutenção em aplicações ja esxistentes."
+    },
+    {
+      "name": "Qa Tester (estágio)",
+      "period": "2022 - 2022",
+      "description": "Atuar como Tester realizando os testes funcionais e não funcionais de softwares."
+    },
+    {
+      "name": "Educador (estágio)",
+      "period": "2021 - 2022",
+      "description": "Atuação como educador para correção de apostilas, fixação de conteúdos e resolução de duvidas, bem como manutenção da sala de aula."
+    }
+  ]
+}
