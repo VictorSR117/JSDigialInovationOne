@@ -8,5 +8,14 @@ footer {
 }
 
 footer img {
-    max-width: 100px;
+    max-width: 70px;
+    margin-left: 1rem;
+}
+
+footer .linkedin {
+    max-width: 55px;
+}
+
+footer img:last-child {
+    margin-left: 0rem;
 }

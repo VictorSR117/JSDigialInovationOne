@@ -1,6 +1,6 @@
 {
   "name": "Victor Luiz lopes da Silva",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://media.licdn.com/dms/image/D4D03AQG-vOxlzSrgpA/profile-displayphoto-shrink_800_800/0/1665164536010?e=1697068800&v=beta&t=zO71oTt4k7AE1iT4__3z6487o7b5JHGtUwmKF2EDnbY",
   "job": "Desenvolvedor Front End",
   "location": "São Paulo - SP",
   "phone": "(11) 98323-8181",
@@ -8,20 +8,16 @@
   "skills": {
     "hardSkills": [
       {
+        "name": "Visual Studio Code",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+      },
+      {
         "name": "Git",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
       },
       {
         "name": "GitHub",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
-      },
-      {
-        "name": "Visual Studio Code",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
-      },
-      {
-        "name": "Figma",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/figma.png"
       },
       {
         "name": "HTML",
@@ -32,16 +28,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Bootstrap",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/bootstrap.png"
-      },
-      {
         "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
-      },
-      {
-        "name": "TypeScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/typescript.png"
       },
       {
         "name": "React",
